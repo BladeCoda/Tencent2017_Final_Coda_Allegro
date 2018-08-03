@@ -22,3 +22,5 @@
 最终模型：讲融合模型的均值按比例提高到0.0273
 
 原始数据下载地址：http://pan.baidu.com/s/1gflA8T1
+
+附：2018届腾讯社交赛决赛代码：https://github.com/BladeCoda/Tencent2018_Final_Phrase_Presto
